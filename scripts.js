@@ -1,1 +1,1 @@
-console.log('Power rangers avante!!');
+console.log('Power rangers avante!! - Olá, mundo de Dragon Ball Z');
